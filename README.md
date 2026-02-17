@@ -70,8 +70,7 @@ A **CLI tool** that generates fully structured Flutter apps with auth, navigatio
 ---
 
 ## 🏗 State Management & Architecture
-- **Provider**, **GetX**, **BLoC**  
-- **MVVM**, **MVC**  
+- **Provider**, **GetX**
 
 ---
 
