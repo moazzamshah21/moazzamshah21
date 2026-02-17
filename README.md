@@ -25,9 +25,8 @@ I have strong experience in **Flutter, React JS, React Native, Node JS, PHP, and
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/moazzamshahk/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://pub.dev/my-packages"><img alt="Pub.dev" src="https://img.shields.io/badge/Pub.dev-FE7C00?style=for-the-badge&logo=dart&logoColor=white"></a>
 <a href="https://codepen.io/Moazzam-Shah-Khan/"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-<a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:moazzamshahkhan08@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
