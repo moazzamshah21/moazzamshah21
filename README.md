@@ -12,7 +12,6 @@ Web App Developer | Mobile App Developer | WordPress Developer
 
 ## 🌐 Connect With Me:
 - 💼 LinkedIn: https://www.linkedin.com/in/moazzamshahk/
-- 📦 Pub.dev Packages: https://pub.dev/my-packages
 - 🧪 CodePen: https://codepen.io/Moazzam-Shah-Khan/
 
 ---
